@@ -1,1 +1,1 @@
-Future Stock Project once done learning python 
+Future Stock Project once done "learning" python 
